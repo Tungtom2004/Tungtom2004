@@ -1,4 +1,4 @@
-![logo](https://github.com/Tungtom2004/Tungtom2004/blob/main/github-header-image.png)
+![logo](https://github.com/Tungtom2004/Tungtom2004/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Tung</h1>
 <h3 align="center">I am studying at PTIT and I want to become an AI Engineer</h3>
 <img align="right"alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">

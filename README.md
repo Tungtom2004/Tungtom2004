@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/minh tung bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh tung bui" height="30" width="40" /></a>
-<a href="https://fb.com/bui tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bui tung" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/minh tung bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minh-t%C3%B9ng-b%C3%B9i/" height="30" width="40" /></a>
+<a href="https://fb.com/bui tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009447560601&locale=vi_VN" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/team4_minhtung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="team4_minhtung" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tungtom2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tungtom2004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tungtom2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buiminhtung01052004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

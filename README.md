@@ -3,7 +3,7 @@
 <h3 align="center">I am studying at PTIT and I want to become an AI Engineer</h3>
 <img align="right"alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🌱 I’m currently learning **C/C++, Python, Java, Machine Learning**
+- 🌱 I’m currently learning **C/C++, Python, Java, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **buiminhtung01052004@gmail.com**
 
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/minh tung bui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minh-t%C3%B9ng-b%C3%B9i/" height="30" width="40" /></a>
 <a href="https://fb.com/bui tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009447560601&locale=vi_VN" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/team4_minhtung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="team4_minhtung" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tungtom2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buiminhtung01052004" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/buiminhtung01052004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buiminhtung01052004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,4 @@
-![logo](https://github.com/Tungtom2004/Tungtom2004/blob/main/github-header-image%20(1).png)
+![logo](https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY0MDU4ODAsIm5iZiI6MTczNjQwNTU4MCwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA5VDA2NTMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5Y2NjNjA3YzUyYWMwZDdiYzQzNTA3ZjMzNDVmMmFjMTZmNzdiZDU0NGUwYTQ3ZmUyYjUxMDM1ODIyODRjM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d_RxQwCQcFcR6T9w4AEwtsPeYr3q75w60QEj0ZllakQ)
 <h1 align="center">Hi 👋, I'm Tung</h1>
 <h3 align="center">I am studying at PTIT and I want to become an AI Engineer</h3>
 <img align="right"alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">

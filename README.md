@@ -22,6 +22,7 @@
 <a href = "https://dev.mysql.com/doc/" target = "_blank" rel = "noreferrer"> <img src = "https://www.svgrepo.com/show/303251/mysql-logo.svg" alt = "MySQL" width = "40" height = "40"/> 
 
 ![](https://github-readme-stats.vercel.app/api?username=Tungtom2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tungtom2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 

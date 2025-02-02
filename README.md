@@ -3,7 +3,7 @@
 <h3 align="center">I am studying at PTIT and I want to become an AI Engineer</h3>
 <img align="right"alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🌱 I’m currently learning **C/C++, Python, Java, Machine Learning, Deep Learning, NLP,LLM**
+- 🌱 I’m currently learning **C/C++, Python, Java, Machine Learning, Deep Learning, NLP,LLM,Computer Vision**
 
 - 📫 How to reach me **buiminhtung01052004@gmail.com**
 

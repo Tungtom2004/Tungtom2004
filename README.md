@@ -4,7 +4,7 @@
 <img align="right"alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🌱 I’m currently learning **C/C++, Python, Java, Machine Learning, Deep Learning, NLP,LLM,Computer Vision**
-- In addtion, i am AI Engineer Internship in FPT Software
+- In addition, i am an AI Engineer Internship in FPT Software
 
 - 📫 How to reach me **buiminhtung01052004@gmail.com**
 
